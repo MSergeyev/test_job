@@ -4,6 +4,7 @@ public class arrayMas {
         for(int i = 0; i<array.length; ++i) {
             if(array[i]%2 !=0) i++;
             System.out.println(array[i]);
+            System.out.println("Done1");
 
 
         }
