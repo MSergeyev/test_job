@@ -9,5 +9,6 @@ public class InpOutTest {
         Scanner scanner = new Scanner(file);
         String line = scanner.nextLine();
         System.out.println(line);
-        scanner.close();}
+        scanner.close();
+    }
 }
